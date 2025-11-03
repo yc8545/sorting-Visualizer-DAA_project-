@@ -24,7 +24,7 @@
       <li><HeaderSoundControl bind:oscillatorType /></li>
       <li><HeaderThemeControl bind:selectedTheme /></li>
     </ul>
-    <HeaderGitHubButton />
+    
   </div>
 
   <MobileHeaderButtons bind:oscillatorType bind:selectedTheme />
